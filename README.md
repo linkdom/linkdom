@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Dominik Link
+### Hi there 👋
 
 <!--
 **linkdom/linkdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
