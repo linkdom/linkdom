@@ -1,6 +1,5 @@
-<h2 style="text-align:center"> Hi, I'm Dominik Link! 👋 </h2>
-<hr>
-<div style="align-items: center; text-align: center;">
+<h2 align="center"> Hi, I'm Dominik Link! 👋 </h2>
+<div align="center">
     <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" alt="cat-gifs">
     <img src="https://forthebadge.com/images/badges/no-ragrets.svg" alt="cat-gifs">
 
